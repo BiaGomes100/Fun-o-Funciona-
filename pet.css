@@ -1,0 +1,121 @@
+    *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+ 
+        body{
+          background-color:#fae894;
+      }
+
+
+      
+       
+       h1{
+        text-align: center;
+        font-size:50px;
+        color: #070743;
+        display: block;
+        width: 100%;
+       }
+
+      
+
+       header{
+        background:#ab0768;
+        border-radius: 2%;
+        height: 150px;
+
+
+       }
+
+      .links li{
+      justify-content: center;
+        margin-left: 25px;
+        text-decoration: none;
+        list-style: none;
+        font-size: 180%;
+        display: flex;
+        flex-direction:row;
+        float: left;
+       }
+
+      
+       .titulo2{
+        font-size: 150%;
+        text-align: center;
+        color: black;
+       }
+
+       .links a{
+        text-decoration: none;
+        color:#169d99;
+        font-size: 150%;
+       
+       }
+  
+       .nav{
+        justify-content: center;
+        display: block;
+        width: 100%;
+
+        display: flex;
+       }
+
+       .itens{
+        display: block;
+        width: 100%;
+       }
+
+       .logo{
+        display: block;
+       margin-top: -8%;
+       }
+
+       form{
+        margin: 0 auto;
+        width: 400px;
+        padding: 1em;
+        border: 1px solid rgb(0, 0, 0);
+        border-radius: 1em;
+       }
+
+       .tituloF{
+        display: block;
+        text-align: center;
+       }
+
+      .calendario{
+        display: block;
+        margin: 0 auto;
+        width: 630px;
+        padding: 1em;
+        border: 1px solid rgb(58, 55, 55);
+        border-radius: 1em;
+      }
+
+
+      .rodape{
+        justify-content: center;
+        margin-left: 25px;
+        text-decoration: none;
+        list-style: none;
+        font-size: 100%;
+        display: flex;
+        flex-direction:row;
+        float: left;
+      }
+
+      .pDoRodape{
+        text-align: center;
+        font-size: 120%;
+        color: black;
+        margin-left: 17%;
+
+      }
+
+      .titulo3{
+        font-size: 210%;
+        text-align: center;
+        color: black;
+      }
